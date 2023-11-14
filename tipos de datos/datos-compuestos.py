@@ -10,6 +10,8 @@ print(tupla)
 
 conjuntos = {'Carlos', 'Wuubzi', True, 1.85}
 
+
+
 #No se pueden acceder a los elementos de forma especifica
 #print(conjuntos[1])
 
